@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ninoa\\Desktop\\Guia-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E1DC7-6EEE-4AB4-B828-DBD59752CAB0}|Guia-4\\Guia-4.csproj|c:\\users\\ninoa\\desktop\\guia-4\\guia-4\\carreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E1DC7-6EEE-4AB4-B828-DBD59752CAB0}|Guia-4\\Guia-4.csproj|solutionrelative:guia-4\\carreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E1DC7-6EEE-4AB4-B828-DBD59752CAB0}|Guia-4\\Guia-4.csproj|c:\\users\\ninoa\\desktop\\guia-4\\guia-4\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E1DC7-6EEE-4AB4-B828-DBD59752CAB0}|Guia-4\\Guia-4.csproj|solutionrelative:guia-4\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E1DC7-6EEE-4AB4-B828-DBD59752CAB0}|Guia-4\\Guia-4.csproj|c:\\users\\ninoa\\desktop\\guia-4\\guia-4\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E1DC7-6EEE-4AB4-B828-DBD59752CAB0}|Guia-4\\Guia-4.csproj|solutionrelative:guia-4\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08E1DC7-6EEE-4AB4-B828-DBD59752CAB0}|Guia-4\\Guia-4.csproj|c:\\users\\ninoa\\desktop\\guia-4\\guia-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08E1DC7-6EEE-4AB4-B828-DBD59752CAB0}|Guia-4\\Guia-4.csproj|solutionrelative:guia-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carreras.cs",
+              "DocumentMoniker": "C:\\Users\\ninoa\\Desktop\\Guia-4\\Guia-4\\Carreras.cs",
+              "RelativeDocumentMoniker": "Guia-4\\Carreras.cs",
+              "ToolTip": "C:\\Users\\ninoa\\Desktop\\Guia-4\\Guia-4\\Carreras.cs",
+              "RelativeToolTip": "Guia-4\\Carreras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:55:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\ninoa\\Desktop\\Guia-4\\Guia-4\\Universidad.cs",
+              "RelativeDocumentMoniker": "Guia-4\\Universidad.cs",
+              "ToolTip": "C:\\Users\\ninoa\\Desktop\\Guia-4\\Guia-4\\Universidad.cs",
+              "RelativeToolTip": "Guia-4\\Universidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:34:45.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\ninoa\\Desktop\\Guia-4\\Guia-4\\Alumno.cs",
+              "RelativeDocumentMoniker": "Guia-4\\Alumno.cs",
+              "ToolTip": "C:\\Users\\ninoa\\Desktop\\Guia-4\\Guia-4\\Alumno.cs",
+              "RelativeToolTip": "Guia-4\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:33:26.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ninoa\\Desktop\\Guia-4\\Guia-4\\Program.cs",
+              "RelativeDocumentMoniker": "Guia-4\\Program.cs",
+              "ToolTip": "C:\\Users\\ninoa\\Desktop\\Guia-4\\Guia-4\\Program.cs",
+              "RelativeToolTip": "Guia-4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:26:49.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
